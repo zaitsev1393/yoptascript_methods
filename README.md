@@ -1,2 +1,4 @@
-# yoptascript_methods
-YoptaScript.js - Recursion - Linear Recursion - Fubonacci
+# YoptaScript.js популярные функции
+-- Recursion - самоёб 
+-- Linear Recursion - иди_подстригись
+-- Fubonacci - петушаччи
