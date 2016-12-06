@@ -1,4 +1,21 @@
 var dictionary = [
+	
+// начало хуйни
+	[
+		"linear_recursion",
+		"иди_подстригись"
+	],
+	[
+		"recursion",
+		"самоёб"
+	],
+	[
+		"fibonacci",
+		"петушаччи"
+	],
+
+//пизда хуйне
+
 	[
 		"includes",
 		"лучшеНетВлагалищаЧемОчкоТоварища"
@@ -1790,18 +1807,6 @@ var dictionary = [
 	[
 		"public",
 		"ебанное"
-	],
-	[
-		"linear_recursion",
-		"плоский_самоёб"
-	],
-	[
-		"recursion",
-		"самоёб"
-	],
-	[
-		"fibonacci",
-		"петушаччи"
 	],
 	[
 		"throws",
