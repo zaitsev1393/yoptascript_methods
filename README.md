@@ -1,7 +1,8 @@
 # YoptaScript.js популярные функции
+
 * Recursion - самоёб 
 * Linear Recursion - иди_подстригись
-* Fubonacci - петушаччи
+* Fibonacci - петушаччи
 
 ## Расширение словаря
-### Дичь добавлена в yoptascript файл, dictionary хэш, в самом начале.
+* Дичь добавлена в yoptascript файл, dictionary хэш, в самом начале.
