@@ -5,4 +5,4 @@
 * Fibonacci - петушаччи
 
 ## Расширение словаря
-*  Добавлено в yoptascript файл, dictionary хэш, в самом начале.
+*  Добавлено в yoptascript файл.
