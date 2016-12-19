@@ -1,8 +1,8 @@
 # YoptaScript.js популярные функции
 
-* Recursion - самоёб 
-* Linear Recursion - иди_подстригись
-* Fibonacci - петушаччи
+* Recursion - самоёб (рек. факториал)
+* Linear Recursion - иди_подстригись (лин. рек. факториал)
+* Fibonacci - какой_по_счету_сука (нахождение n элемента)
 
 ## Расширение словаря
 *  Добавлено в yoptascript файл.
